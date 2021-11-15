@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-	printf("In master\n");
+	printf("In master^~^\n");
 	return 0;
 }
